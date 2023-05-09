@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "instauto": "^9.2.1",
+    "puppeteer": "^19.3.0"
+  }
+}
